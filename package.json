@@ -2,7 +2,7 @@
   "name": "andre-nascimento-base-extension-pack",
   "displayName": "Andre Nascimento Base Extensions Pack",
   "description": "Minha coleção base de extensões para VS Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -49,10 +49,10 @@
     "extensions"
   ],
   "repository": {
-    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*"
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack"
   },
-  "homepage": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*",
+  "homepage": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack",
   "bugs": {
-    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*/issues"
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack/issues"
   }
 }
