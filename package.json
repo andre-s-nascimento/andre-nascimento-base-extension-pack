@@ -1,6 +1,6 @@
 {
   "name": "andre-nascimento-base-extension-pack",
-  "displayName": "andre-nascimento-base-extension-pack",
+  "displayName": "Andre Nascimento Base Extensions Pack",
   "description": "Minha coleção base de extensões para VS Code.",
   "version": "0.0.1",
   "engines": {
@@ -10,6 +10,49 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "jasonlhy.hungry-delete",
+    "jwsandeman.cyberpunk2077-theme",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-ceintl.vscode-language-pack-pt-br",
+    "ms-vscode-remote.remote-wsl",
+    "oderwat.indent-rainbow",
+    "piotrpalarz.vscode-gitignore-generator",
+    "pkief.material-icon-theme",
+    "pnp.polacode",
+    "quicktype.quicktype",
+    "richie5um2.vscode-sort-json",
+    "sonarsource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "tyriar.sort-lines",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "vscode-icons-team.vscode-icons",
+    "wmaurer.change-case",
+    "yzhang.markdown-all-in-one"
+  ],
+  "publisher": "andre-s-nascimento",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0074e8",
+    "theme": "dark"
+  },
+  "keywords": [
+    "base",
+    "start",
+    "extensions"
+  ],
+  "repository": {
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*"
+  },
+  "homepage": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*",
+  "bugs": {
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack*/issues"
+  }
 }
